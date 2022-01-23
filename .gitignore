@@ -1,2 +1,7 @@
 # Project exclude paths
 /node_modules/
+/.idea/.gitignore
+/.idea/aws.xml
+/.idea/azure/azureSettings.xml
+/.idea/misc.xml
+/.idea/modules.xml
